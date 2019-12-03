@@ -1,4 +1,4 @@
-# BAC2ProjetOptimisationLineaire
+# BAB2 projet d'optimisation linéaire
 
-Projet du cours d'optimisation linéaire de bac2 science info: Récupération d’une image floutée (deblurring) 
-Réalisé par Arnaud.P
+Récupération d’une image floutée (deblurring). Projet réalisé avec Octave.
+Auteur: Arnaud Palgen
